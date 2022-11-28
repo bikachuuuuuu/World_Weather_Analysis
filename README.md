@@ -13,7 +13,7 @@ Python, citipy, Pandas, Matplotlib, SciPy, Google Maps API, Google Places API, O
 for the filtered cities around the world.
 
 
-![alt text](image/map_markers.png)
+![pic 1](https://github.com/bikachuuuuuu/World_Weather_Analysis/blob/main/resources/map_markers.png?raw=true)
 
 
 - A notation is in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time.
@@ -22,7 +22,7 @@ for the filtered cities around the world.
 
 
 
-![alt text](image/WeatherPy_vacation_map.png)
+![pic 2][(image/WeatherPy_vacation_map.png)](https://github.com/bikachuuuuuu/World_Weather_Analysis/blob/main/resources/WeatherPy_vacation_map.png?raw=true)
 
 
 
@@ -30,7 +30,7 @@ for the filtered cities around the world.
 
 
 
-![alt text](image/WeatherPy_travel_map.png)
+![pic 3](https://github.com/bikachuuuuuu/World_Weather_Analysis/blob/main/resources/WeatherPy_travel_map.png?raw=true)
 
 
 
@@ -38,5 +38,5 @@ for the filtered cities around the world.
 
 
 
-![alt text](image/WeatherPy_travel_map_markers.png)
+![pic 4](https://github.com/bikachuuuuuu/World_Weather_Analysis/blob/main/resources/WeatherPy_travel_map_markers.png?raw=true)
 
