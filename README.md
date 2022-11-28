@@ -22,7 +22,7 @@ for the filtered cities around the world.
 
 
 
-![pic 2][(image/WeatherPy_vacation_map.png)](https://github.com/bikachuuuuuu/World_Weather_Analysis/blob/main/resources/WeatherPy_vacation_map.png?raw=true)
+![pic 2](https://github.com/bikachuuuuuu/World_Weather_Analysis/blob/main/resources/WeatherPy_vacation_map.png?raw=true)
 
 
 
